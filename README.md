@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning Python
 - 🌱 I’m currently learning Python 3
 - 💞️ I’m looking to collaborate on Anything you guys trust me with!
-- 📫 How to reach me
+- 📫 How to reach me, scream
 - 😄 Pronouns: He/Him/Squirrel
 - ⚡ Fun fact: I've got a dog and he also would like to learn python
 
