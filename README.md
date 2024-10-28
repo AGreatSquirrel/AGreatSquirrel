@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AGreatSquirrel
-- 👀 I’m interested in learning Python
-- 🌱 I’m currently learning Python 3
+- 👀 I’m interested in publishing random scripts I've created over the years. I mainly use PowerShell but...
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on Anything you guys trust me with!
 - 📫 How to reach me, scream
 - 😄 Pronouns: He/Him/Squirrel
