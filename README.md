@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Anything you guys trust me with!
 - 📫 How to reach me, scream
 - 😄 Pronouns: He/Him/Squirrel
-- ⚡ Fun fact: I've got a dog and he also would like to learn python
+- ⚡ Fun fact: I've have two cats and they are not at all interested in learning python.
 
 <!---
 AGreatSquirrel/AGreatSquirrel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
